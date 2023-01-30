@@ -2,4 +2,4 @@
 
 Extraindo os dados recebidos do JSON via ApiCEP é possivel autopreencher os campos de Rua, Cidade, Bairro e Estado do usuário.
 
-![image](https://user-images.githubusercontent.com/104083691/214941762-805dbbf6-6e2d-4cd6-88d3-d3d3ef49b9e6.png)
+![chrome_f27WerWqFj](https://user-images.githubusercontent.com/104083691/215559508-15cd27bb-c119-4796-85c6-a8f4563dae15.gif)
