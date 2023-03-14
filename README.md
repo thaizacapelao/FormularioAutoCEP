@@ -4,7 +4,7 @@
 
 ## 💻 Projeto:
 
-Tela de cadastro que extrai os dados recebidos do JSON via ApiCEP, sendo possivel autopreencher os campos de Rua, Cidade, Bairro e Estado do usuário.
+Tela de cadastro que extrai os dados recebidos do JSON via ApiCEP, sendo possivel autopreencher os campos de Rua, Cidade, Bairro e Estado do usuário ao preencher a númeração do CEP.
 
 ## :hammer_and_wrench: Features:
 
