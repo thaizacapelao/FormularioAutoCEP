@@ -8,18 +8,18 @@ Tela de cadastro que extrai os dados recebidos do JSON via ApiCEP, sendo possive
 
 ## :hammer_and_wrench: Features:
 
--   [ ] Importação JSON via ApiCEP;
--   [ ] Utilização de variáveis CSS;
--   [ ] Trabalhando com o flex box;
--   [ ] Icones utilizados via ReacIcons;
--   [ ] Inserindo Formik nos campos;
+-   [X] Importação JSON via ApiCEP;
+-   [X] Utilização de variáveis CSS;
+-   [X] Trabalhando com o flex box;
+-   [X] Icones utilizados via ReacIcons;
+-   [X] Inserindo Formik nos campos;
 
 
 ## ✨ Linguagens utilizadas:
 
--   [ ] HTML.
--   [ ] CSS.
--   [ ] JavaScript.
+-   [X] HTML.
+-   [X] CSS.
+-   [X] JavaScript.
 
 ## 🔖 Layout:
 
